@@ -1,0 +1,19 @@
+Manajemen Keuangan Pribadi
+Deskripsi: Aplikasi ini dirancang untuk membantu pengguna dalam manajemen keuangan pribadi mereka. Selain menghitung kembalian, aplikasi juga menyediakan fitur-fitur berikut:
+
+Pencatatan Pengeluaran Harian: Pengguna dapat mencatat pengeluaran harian mereka dan mengkategorikannya, memberikan pemahaman yang lebih baik tentang pola pengeluaran.
+
+Perencanaan Anggaran: Aplikasi menyediakan alat perencanaan anggaran bulanan berdasarkan pendapatan dan pengeluaran, memberikan saran untuk mencapai tujuan keuangan.
+
+Visualisasi Grafis: Menampilkan grafik dan laporan yang mudah dimengerti, membantu pengguna melihat tren keuangan mereka dan membuat keputusan yang lebih baik.
+
+Pengingat Tagihan: Memberikan pengingat untuk pembayaran tagihan dan batas waktu penting, membantu pengguna menghindari denda keterlambatan.
+
+Analisis Kembalian: Selain menghitung kembalian, aplikasi dapat memberikan analisis mengenai bagaimana kebiasaan pengguna mempengaruhi sisa uang tunai mereka.
+
+Pengelolaan Tabungan: Menyediakan fitur pengelolaan tabungan, membantu pengguna mencapai tujuan tabungan mereka.
+
+Keamanan dan Privasi: Menjaga keamanan data keuangan pengguna dengan enkripsi yang kuat dan pengaturan privasi yang dapat dikonfigurasi.
+
+Dengan pencatatan, analisis, dan prediksi keuangan anda, kami berharap dapat membantu anda dalam melakukan pengelolaan keuangan anda
+Di masa modern saat ini, banyak masyarakat yang masih kesulitan dalam mengelola keuangan pribadinya bahkan tidak jarang masyarakat yang melakukan kredit atau pinjaman online demi kehidupannya. Dengan aplikasi website ini, kami harap dapat membantu masyarakat dalam mengelola keuangannya.
